@@ -11,13 +11,10 @@ Cкрипт извлекает новости (отдельно заголово
 
 ### Зависимости
 
-- Requests: для отправки HTTP-запросов.
-- Beautiful Soup 4: для парсинга HTML.
+requests: библиотека для работы с Http запросами.
+beautiful Soup 4: библиотека Python для извлечения данных из файлов HTML и XML.
 
 ### Установка зависимостей
 
-```sh
-pip install requests beautifulsoup4
-```
-
-
+pip install requests 
+pip install beautifulsoup4
